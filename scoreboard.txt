@@ -1,0 +1,8 @@
+80:Player 2
+20:Player 2
+20:Player 2
+10:Player 2
+0:Player 2
+0:Player 2
+0:Player 2
+0:Player 2
